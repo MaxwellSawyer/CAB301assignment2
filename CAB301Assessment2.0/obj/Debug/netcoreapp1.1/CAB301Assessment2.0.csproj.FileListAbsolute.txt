@@ -1,0 +1,9 @@
+H:\CAB301Assessment2.0\CAB301Assessment2.0\bin\Debug\netcoreapp1.1\CAB301Assessment2.0.deps.json
+H:\CAB301Assessment2.0\CAB301Assessment2.0\bin\Debug\netcoreapp1.1\CAB301Assessment2.0.runtimeconfig.json
+H:\CAB301Assessment2.0\CAB301Assessment2.0\bin\Debug\netcoreapp1.1\CAB301Assessment2.0.runtimeconfig.dev.json
+H:\CAB301Assessment2.0\CAB301Assessment2.0\obj\Debug\netcoreapp1.1\CAB301Assessment2.0.csprojResolveAssemblyReference.cache
+H:\CAB301Assessment2.0\CAB301Assessment2.0\obj\Debug\netcoreapp1.1\CAB301Assessment2.0.AssemblyInfo.cs
+H:\CAB301Assessment2.0\CAB301Assessment2.0\bin\Debug\netcoreapp1.1\CAB301Assessment2.0.dll
+H:\CAB301Assessment2.0\CAB301Assessment2.0\bin\Debug\netcoreapp1.1\CAB301Assessment2.0.pdb
+H:\CAB301Assessment2.0\CAB301Assessment2.0\obj\Debug\netcoreapp1.1\CAB301Assessment2.0.dll
+H:\CAB301Assessment2.0\CAB301Assessment2.0\obj\Debug\netcoreapp1.1\CAB301Assessment2.0.pdb
